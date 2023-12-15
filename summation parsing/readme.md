@@ -1,0 +1,1 @@
+Extract information relevant to one specific paper from the reactome summation.

@@ -1,0 +1,109 @@
+Protein: ARHGEF1, 
+	Description: RHOA-specific GEF
+Protein: ARHGEF2,
+	Description: RHOA-specific GEF
+Protein: ARHGEF5, 
+	Description: RHOA-specific GEF
+Protein: ARHGEF17,
+	Description: RHOA-specific GEF
+Protein: NGEF29, 
+	Description: RHOA-specific GEF
+Protein: ECT2, 
+	Description: RHOA-specific GEF
+Protein: AKAP13, 
+	Description: RHOA-specific GEF
+Protein: SWAP70, 
+	Description RAC1-specific GEF
+Protein: DOCK1, 
+	Description RAC1-specific GEF
+Protein: DOCK4, 
+	Description RAC1-specific GEF
+Protein: DOCK5, 
+	Description RAC1-specific GEF
+Protein: DOCK6, 
+	Description RAC1-specific GEF
+Protein: CDC42, 
+	Description: classical Rho proteins
+Variant: CDC42G15A, 
+	Protein: CDC42
+	Mutation: G15A
+Protein: DNMBP38, 
+	Description: CDC42- specific GEFs
+Protein: PLEKHG1, 
+	Description: CDC42- specific GEFs
+Protein: DOCK8, 
+	Description: CDC42- specific GEFs
+Protein: DOCK10, 
+	Description: CDC42- specific GEFs
+Protein: VAV2, 
+	Description: broad selectivity GEF
+Protein: RHOA
+	Description: classical Rho proteins
+Variant: RHOAG17A, 
+	Protein: RHOA
+	Mutation: G17A
+Protein: RAC1
+	Description: classical Rho proteins
+Variant: RAC1G15A
+	Protein: RAC1
+	Mutation: G15A
+Protein: TRIO43 
+Protein: RHOG
+	Description: classical Rho proteins
+Variant: RHOGG15A
+	Protein: RHOG
+	Mutation: G15A
+Protein: ARHGEF11 
+	Description: broad selectivity GEF
+Protein: DOCK7, 
+Description: broad selectivity GEF
+Protein: ARHGEF7, 
+	Description: broad selectivity GEF
+Protein: FARP1, 
+	Description: broad selectivity GEF
+Protein: BCR48, 
+	Description: broad selectivity GEF
+Protein: ARHGEF26, 
+	Description: RHOG-specific GEF
+Variant: RHOGG15A
+	Protein: RHOG
+	Mutation: G15A
+Protein: ARHGEF12, 
+Protein: PLEKHG3, 
+	Description: broad selectivity GEF
+RHOAG17A interacts with ARHGEF1  
+RHOAG17A interacts with ARHGEF2
+RHOAG17A interacts with ARHGEF5 
+RHOAG17A interacts with ARHGEF17 
+RHOAG17A interacts with NGEF29
+RHOAG17A interacts with ECT2
+RHOAG17A interacts with AKAP13
+RAC1G15A interacts with SWAP70
+RAC1G15A interacts with DOCK1
+RAC1G15A interacts with DOCK4 
+RAC1G15A interacts with DOCK5
+RAC1G15A interacts with DOCK6
+VAV2 interacts with RHOA
+VAV2 interacts with RAC1
+VAV2 interacts with CDC42
+TRIO43 interacts with RHOA
+TRIO43 interacts with RAC1
+TRIO43 interacts with RHOG
+ARHGEF11 interacts with RHOA
+ARHGEF11 interacts with RAC1
+ARHGEF11 interacts with CDC42
+DOCK7 interacts with RAC1
+DOCK7 interacts with CDC42
+ARHGEF7 interacts with RAC1
+ARHGEF7 interacts with CDC42
+FARP1 interacts with RHOA
+FARP1 interacts with RAC1
+FARP1 interacts with CDC42
+BCR48 interacts with RHOA
+BCR48 interacts with RAC1
+CDC42G15A interacts with ARHGEF26
+RHOAG17A interacts with ARHGEF12
+CDC42G15A interacts with ARHGEF12
+PLEKHG3 interacts with RAC1 
+PLEKHG3 interacts with CDC42
+PLEKHG3 interacts with RHOA

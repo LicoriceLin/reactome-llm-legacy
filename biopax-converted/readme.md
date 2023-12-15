@@ -1,0 +1,1 @@
+standard output generated in https://github.com/linkml/schema-automator.git
